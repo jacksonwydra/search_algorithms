@@ -1,5 +1,18 @@
 # ninja log v5
-668	759	1654903336666969478	SearchAlgorithms	576499b19d5d5074
 3	1033	1654958854222589753	CMakeFiles/search_algorithms.dir/person.cpp.o	5b81223bed86b3ac
 1	1035	1654958854224904165	CMakeFiles/search_algorithms.dir/main.cpp.o	d9fca750f4151509
 1035	1118	1654958854316052240	search_algorithms	ec57c24fe233002
+3	854	1654965775853270886	CMakeFiles/search_algorithms.dir/student.cpp.o	2d040a72ff616aca
+3	910	1654965775912552873	CMakeFiles/search_algorithms.dir/person.cpp.o	5b81223bed86b3ac
+2	1034	1654965776034141542	CMakeFiles/search_algorithms.dir/main.cpp.o	d9fca750f4151509
+1034	1154	1654965776162501175	search_algorithms	8cf01e6ed52541ad
+2	904	1654965814541550309	CMakeFiles/search_algorithms.dir/main.cpp.o	d9fca750f4151509
+904	979	1654965814619741618	search_algorithms	8cf01e6ed52541ad
+2	911	1654965860102979612	CMakeFiles/search_algorithms.dir/student.cpp.o	2d040a72ff616aca
+911	994	1654965860185726214	search_algorithms	8cf01e6ed52541ad
+2	916	1654965929040788426	CMakeFiles/search_algorithms.dir/main.cpp.o	d9fca750f4151509
+916	991	1654965929117455126	search_algorithms	8cf01e6ed52541ad
+2	1038	1654966187024814209	CMakeFiles/search_algorithms.dir/person.cpp.o	5b81223bed86b3ac
+2	1044	1654966187032573505	CMakeFiles/search_algorithms.dir/student.cpp.o	2d040a72ff616aca
+2	1159	1654966187149823705	CMakeFiles/search_algorithms.dir/main.cpp.o	d9fca750f4151509
+1160	1226	1654966187219549179	search_algorithms	8cf01e6ed52541ad
