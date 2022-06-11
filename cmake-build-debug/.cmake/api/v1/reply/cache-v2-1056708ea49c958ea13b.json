@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug"
+			"value" : "/Users/jacksonwydra/src/search_algorithms/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/jacksonwydra/src/SearchAlgorithms"
+			"value" : "/Users/jacksonwydra/src/search_algorithms"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -795,7 +795,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "SearchAlgorithms"
+			"value" : "search_algorithms"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1078,7 +1078,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "SearchAlgorithms_BINARY_DIR",
+			"name" : "search_algorithms_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1087,10 +1087,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug"
+			"value" : "/Users/jacksonwydra/src/search_algorithms/cmake-build-debug"
 		},
 		{
-			"name" : "SearchAlgorithms_IS_TOP_LEVEL",
+			"name" : "search_algorithms_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1102,7 +1102,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "SearchAlgorithms_SOURCE_DIR",
+			"name" : "search_algorithms_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/jacksonwydra/src/SearchAlgorithms"
+			"value" : "/Users/jacksonwydra/src/search_algorithms"
 		}
 	],
 	"kind" : "cache",

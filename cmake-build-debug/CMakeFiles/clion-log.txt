@@ -1,4 +1,4 @@
-"/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/jacksonwydra/src/SearchAlgorithms -B /Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug
+"/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/jacksonwydra/src/search_algorithms -B /Users/jacksonwydra/src/search_algorithms/cmake-build-debug
 -- The C compiler identification is AppleClang 13.1.6.13160021
 -- The CXX compiler identification is AppleClang 13.1.6.13160021
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug
+-- Build files have been written to: /Users/jacksonwydra/src/search_algorithms/cmake-build-debug

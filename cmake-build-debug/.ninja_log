@@ -1,3 +1,5 @@
 # ninja log v5
-0	688	1654830933174661716	CMakeFiles/SearchAlgorithms.dir/main.cpp.o	74ff747951e6c1cf
-690	757	1654830933247064036	SearchAlgorithms	3426598420a1577a
+668	759	1654903336666969478	SearchAlgorithms	576499b19d5d5074
+3	1033	1654958854222589753	CMakeFiles/search_algorithms.dir/person.cpp.o	5b81223bed86b3ac
+1	1035	1654958854224904165	CMakeFiles/search_algorithms.dir/main.cpp.o	d9fca750f4151509
+1035	1118	1654958854316052240	search_algorithms	ec57c24fe233002

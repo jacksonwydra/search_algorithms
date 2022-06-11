@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: SearchAlgorithms
+# Project: search_algorithms
 # Configurations: Debug
 # =============================================================================
 
@@ -39,47 +39,55 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = /Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug/
+cmake_ninja_workdir = /Users/jacksonwydra/src/search_algorithms/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target SearchAlgorithms
+# Object build statements for EXECUTABLE target search_algorithms
 
 
 #############################################
-# Order-only phony target for SearchAlgorithms
+# Order-only phony target for search_algorithms
 
-build cmake_object_order_depends_target_SearchAlgorithms: phony || CMakeFiles/SearchAlgorithms.dir
+build cmake_object_order_depends_target_search_algorithms: phony || CMakeFiles/search_algorithms.dir
 
-build CMakeFiles/SearchAlgorithms.dir/main.cpp.o: CXX_COMPILER__SearchAlgorithms_Debug /Users/jacksonwydra/src/SearchAlgorithms/main.cpp || cmake_object_order_depends_target_SearchAlgorithms
-  DEP_FILE = CMakeFiles/SearchAlgorithms.dir/main.cpp.o.d
+build CMakeFiles/search_algorithms.dir/main.cpp.o: CXX_COMPILER__search_algorithms_Debug /Users/jacksonwydra/src/search_algorithms/main.cpp || cmake_object_order_depends_target_search_algorithms
+  DEP_FILE = CMakeFiles/search_algorithms.dir/main.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17
-  OBJECT_DIR = CMakeFiles/SearchAlgorithms.dir
-  OBJECT_FILE_DIR = CMakeFiles/SearchAlgorithms.dir
-  TARGET_COMPILE_PDB = CMakeFiles/SearchAlgorithms.dir/
-  TARGET_PDB = SearchAlgorithms.pdb
+  OBJECT_DIR = CMakeFiles/search_algorithms.dir
+  OBJECT_FILE_DIR = CMakeFiles/search_algorithms.dir
+  TARGET_COMPILE_PDB = CMakeFiles/search_algorithms.dir/
+  TARGET_PDB = search_algorithms.pdb
+
+build CMakeFiles/search_algorithms.dir/person.cpp.o: CXX_COMPILER__search_algorithms_Debug /Users/jacksonwydra/src/search_algorithms/person.cpp || cmake_object_order_depends_target_search_algorithms
+  DEP_FILE = CMakeFiles/search_algorithms.dir/person.cpp.o.d
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu++17
+  OBJECT_DIR = CMakeFiles/search_algorithms.dir
+  OBJECT_FILE_DIR = CMakeFiles/search_algorithms.dir
+  TARGET_COMPILE_PDB = CMakeFiles/search_algorithms.dir/
+  TARGET_PDB = search_algorithms.pdb
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target SearchAlgorithms
+# Link build statements for EXECUTABLE target search_algorithms
 
 
 #############################################
-# Link the executable SearchAlgorithms
+# Link the executable search_algorithms
 
-build SearchAlgorithms: CXX_EXECUTABLE_LINKER__SearchAlgorithms_Debug CMakeFiles/SearchAlgorithms.dir/main.cpp.o
+build search_algorithms: CXX_EXECUTABLE_LINKER__search_algorithms_Debug CMakeFiles/search_algorithms.dir/main.cpp.o CMakeFiles/search_algorithms.dir/person.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk
-  OBJECT_DIR = CMakeFiles/SearchAlgorithms.dir
+  OBJECT_DIR = CMakeFiles/search_algorithms.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/SearchAlgorithms.dir/
-  TARGET_FILE = SearchAlgorithms
-  TARGET_PDB = SearchAlgorithms.pdb
+  TARGET_COMPILE_PDB = CMakeFiles/search_algorithms.dir/
+  TARGET_FILE = search_algorithms
+  TARGET_PDB = search_algorithms.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug && "/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+  COMMAND = cd /Users/jacksonwydra/src/search_algorithms/cmake-build-debug && "/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -90,7 +98,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cd /Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug && "/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S/Users/jacksonwydra/src/SearchAlgorithms -B/Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug
+  COMMAND = cd /Users/jacksonwydra/src/search_algorithms/cmake-build-debug && "/Users/jacksonwydra/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/CLion.app/Contents/bin/cmake/mac/bin/cmake" --regenerate-during-build -S/Users/jacksonwydra/src/search_algorithms -B/Users/jacksonwydra/src/search_algorithms/cmake-build-debug
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -106,9 +114,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 
 #############################################
-# Folder: /Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug
+# Folder: /Users/jacksonwydra/src/search_algorithms/cmake-build-debug
 
-build all: phony SearchAlgorithms
+build all: phony search_algorithms
 
 # =============================================================================
 # Built-in targets

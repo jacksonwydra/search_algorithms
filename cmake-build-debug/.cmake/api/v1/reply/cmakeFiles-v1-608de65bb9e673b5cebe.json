@@ -1103,8 +1103,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/Users/jacksonwydra/src/SearchAlgorithms/cmake-build-debug",
-		"source" : "/Users/jacksonwydra/src/SearchAlgorithms"
+		"build" : "/Users/jacksonwydra/src/search_algorithms/cmake-build-debug",
+		"source" : "/Users/jacksonwydra/src/search_algorithms"
 	},
 	"version" : 
 	{
